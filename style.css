@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+}
+
+.nave{
+    display: flex;
+    background: green;
+
+}
