@@ -1,9 +1,32 @@
 body{
     margin: 0px;
+    font-style: normal;
 }
 
 .nave{
     display: flex;
     background: green;
-
+   height: 50px;
+   text-align: justify;
 }
+.side{
+    display: flex;
+    height: 600px;
+    width: 200;
+    color: aliceblue;
+    background-color:blue;
+    text-align: justify;
+}
+li{
+    color: aliceblue;
+    
+}
+ul {
+    list-style-type: none;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+  }
+  a{
+    font-style: normal;
+  }

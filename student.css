@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    display: flex;
+}
+
+.card{
+   
+    background-color: bisque;
+    margin-top: 10px;
+    margin-bottom: 30%;
+}
